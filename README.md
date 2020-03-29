@@ -10,7 +10,7 @@ This is an implementation of the paper: "Deep learning to detect botnet via netw
 - jupyterlab==1.2.6
 - networkx==2.4
 
-## The datasets used as follows:
+## Dataset:
 - [CTU-13](https://www.stratosphereips.org/datasets-ctu13)
 
 ## Important:
