@@ -1,6 +1,6 @@
 # Botnet detection using Deep learning
 
-This is a implementation of the paper: "Deep learning to detect botnet via network flow summaries" using Keras.
+This is an implementation of the paper: "Deep learning to detect botnet via network flow summaries" using Keras.
 - [link](https://link.springer.com/article/10.1007/s00521-018-3595-x)
 
 Dependencies:
