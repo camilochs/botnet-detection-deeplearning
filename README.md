@@ -13,7 +13,9 @@ Dependencies:
 The datasets used as follows:
 - [CTU-13](https://www.stratosphereips.org/datasets-ctu13)
 
-Usage:
+Important:
+- You need the "all-data-filtered.csv.gz" file into "datasets/" or have "CTU-13-Dataset" folder into "datasets/".
 
+Usage:
 - run jupyterlab.
 - open jupyter notebook: `classifier DNN.ipynb`.
